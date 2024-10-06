@@ -60,6 +60,20 @@ This project uses open-source data from the [U.S. Greenhouse Gas Center](https:/
 
 By using these datasets, we created visualizations and stories to showcase the **urgent need for climate action**.
 
+## 📸 Pics and 
+![image](https://github.com/user-attachments/assets/5d7c70e4-ad41-40b6-be55-2462b056e7b3) <br> <br>
+![image](https://github.com/user-attachments/assets/a658bbb5-0cda-41b6-9625-65c6efcfd0b6) <br> <br>
+![image](https://github.com/user-attachments/assets/352ecd9f-1f82-4523-b897-96b7bad1299b) <br> <br>
+![image](https://github.com/user-attachments/assets/91d9f453-e8a0-4042-b549-9916456ac43d) <br> <br>
+![image](https://github.com/user-attachments/assets/6e4a92d4-c288-47ef-b0a8-4b7a79a91c8f) <br> <br>
+![image](https://github.com/user-attachments/assets/801d95e6-6058-456f-9d17-c2bb74f491c1) <br> <br>
+
+
+
+
+
+
+
 ## 🤝 Contributing
 
 We welcome contributions! 🙌 If you would like to contribute, please follow these steps:
