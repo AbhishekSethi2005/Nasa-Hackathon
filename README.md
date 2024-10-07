@@ -60,7 +60,7 @@ This project uses open-source data from the [U.S. Greenhouse Gas Center](https:/
 
 By using these datasets, we created visualizations and stories to showcase the **urgent need for climate action**.
 
-## 📸 Pics and 
+## 📸 Pics and Web Glimpses
 ![image](https://github.com/user-attachments/assets/5d7c70e4-ad41-40b6-be55-2462b056e7b3) <br> <br>
 ![image](https://github.com/user-attachments/assets/a658bbb5-0cda-41b6-9625-65c6efcfd0b6) <br> <br>
 ![image](https://github.com/user-attachments/assets/352ecd9f-1f82-4523-b897-96b7bad1299b) <br> <br>
